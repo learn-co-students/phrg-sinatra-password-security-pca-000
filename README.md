@@ -172,4 +172,7 @@ without storing a plain-text password in our database.
 * [Ruby on Rails Guide: Has Secure Password](http://api.rubyonrails.org/classes/ActiveModel/SecurePassword/ClassMethods.html)
 * [How NOT to Store Passwords!](https://www.youtube.com/watch?v=8ZtInClXe1Q) - Computerphile on Youtube
 
+## Does this need an update?
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-sinatra-password-security/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-sinatra-password-security/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Securing Passwords</p>
